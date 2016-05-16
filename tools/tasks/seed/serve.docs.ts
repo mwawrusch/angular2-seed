@@ -1,3 +1,3 @@
-import { serveDocs } from '../../utils';
-
-export = serveDocs;
+// import { serveDocs } from '../../utils';
+//
+// export = serveDocs;
